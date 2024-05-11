@@ -1,0 +1,154 @@
+body {
+    background: linear-gradient(rgba(144, 180, 251, 1), rgba(144, 180, 251, 0.21), rgba(144, 180, 251, 0.05)) fixed;
+}
+@font-face {
+  font-family: Inter;
+  src: url("../fonts/Inter-Regular.ttf");
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family:Inter;
+}
+iframe#block1forma {
+    position: absolute;
+    top: 5vw;
+    left: 25vw;
+}
+div#block1rectangle1{
+    position: absolute;
+    top: 3.5vw;
+    left: 35vw;
+    height: 42vw;
+    width: 30vw;
+    background: rgba(160, 184, 231, 1);
+    border-radius: 1cap;
+}
+div#block1logo{
+    position: absolute;
+    top: 1vw;
+    left: 43vw;
+}
+div#block1logo img{
+    height: 1.9vw;
+}
+/*div#block1buttonn {
+    position: absolute;
+    top: 1.7vw;
+    left: 6vw;
+}
+span#block1text1{
+    position: absolute;
+    top: 3vw;
+    left: 11.7vw;
+    font-size: 1vw;
+}
+span#block1text2{
+    position: absolute;
+    top: 4.5vw;
+    left: 4vw;
+    font-size: 1vw;
+    text-align: center;
+}
+label#block1label1{
+    position: absolute;
+    top: 9vw;
+    left: 4vw;
+    font-size: 1vw;
+}
+input#block1input1{
+    position: absolute;
+    top: 10.5vw;
+    left: 4vw;
+    width: 22vw;
+    height: 2vw;
+}
+label#block1label2{
+    position: absolute;
+    top: 13.5vw;
+    left: 4vw;
+    font-size: 1vw;
+}
+input#block1input2{
+    position: absolute;
+    top: 15vw;
+    left: 4vw;
+    width: 22vw;
+    height: 2vw;
+}
+label#block1label3{
+    position: absolute;
+    top: 18vw;
+    left: 4vw;
+    font-size: 1vw;
+}
+input#block1input3{
+    position: absolute;
+    top: 19.5vw;
+    left: 4vw;
+    width: 22vw;
+    height: 2vw;
+}
+label#block1label4{
+    position: absolute;
+    top: 22.5vw;
+    left: 4vw;
+    font-size: 1vw;
+}
+input#block1input4{
+    position: absolute;
+    top: 24vw;
+    left: 4vw;
+    width: 22vw;
+    height: 2vw;
+}
+label#block1label5{
+    position: absolute;
+    top: 27vw;
+    left: 4vw;
+    font-size: 1vw;
+}
+input#block1input5{
+    position: absolute;
+    top: 28.5vw;
+    left: 4vw;
+    width: 22vw;
+    height: 2vw;
+}
+label#block1label7{
+    position: absolute;
+    top: 31.5vw;
+    left: 4vw;
+    font-size: 1vw;
+}
+input#block1input7{
+    position: absolute;
+    top: 33vw;
+    left: 4vw;
+    width: 22vw;
+    height: 2vw;
+}
+#block1button1 {
+    background-color: none;
+    border: 0.2vw rgba(0, 65, 191, 1) solid;
+    border-radius: 15cap;
+    width: 17vw;
+    height: 2vw;
+    position: absolute;
+    left: 6.5vw;
+    top: 38vw;
+}
+#block1button1 p{
+    color:rgb(0, 0, 0);
+    font-size: 1.4vw;
+    position: absolute;
+    top: 0.1vw;
+    left: 1.2vw;
+}
+#block1button1:hover{
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+}
+#block1button1:active{
+    box-shadow: inset 5px 5px rgba(0, 0, 0, 0.2);
+  text-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+}*/

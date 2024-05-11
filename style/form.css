@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(rgba(144, 180, 251, 1), rgba(144, 180, 251, 0.21), rgba(144, 180, 251, 0.05)) fixed;
+}
+@font-face {
+  font-family: Inter;
+  src: url("../fonts/Inter-Regular.ttf");
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family:Inter;
+}
+p {
+    position: absolute;
+    top: 20vw;
+    left: 40vw;
+    font-size: 2vw;
+}
